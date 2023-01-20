@@ -3,9 +3,18 @@
 font-family: 'Poppins', sans-serif;
 font-family: 'Work Sans', sans-serif;
 }
-.row{
+.bz-line{
     padding: 105px;
 }
 .bz-side-btn{
     background-color: orangered;
+}
+.fa-solid{
+    color: #E77C40;
+}
+.fa-regular{
+    color: #E77C40;
+}
+.footer{
+    background-color: #0B0D17;
 }
