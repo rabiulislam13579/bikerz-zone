@@ -1,0 +1,11 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Work Sans', sans-serif;
+}
+.row{
+    padding: 105px;
+}
+.bz-side-btn{
+    background-color: orangered;
+}
